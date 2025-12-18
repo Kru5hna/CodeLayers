@@ -97,15 +97,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is part of the Envision Datathon. Please refer to datathon guidelines for usage terms.
+**Team CodeLayers**
 
-## 📧 Contact
-
-For questions or collaboration opportunities:
-- GitHub: [@Kru5hna](https://github.com/Kru5hna)
-- Create an issue in this repository
+- **Krushna Raut** – [github.com/kru5hna](https://github.com/kru5hna)
+- **Abhijeet Mate** – [github.com/Abhijeet314](https://github.com/Abhijeet314)
 
 ## 🙏 Acknowledgments
 
@@ -115,4 +111,4 @@ For questions or collaboration opportunities:
 
 ---
 
-**Note**: This project was developed as part of the Envision Datathon. The methodologies and findings are intended for educational and competitive purposes.
+
